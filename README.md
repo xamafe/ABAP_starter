@@ -97,15 +97,19 @@ ABAP developer
     |   +-- database design
     |   +-- design patterns
     |   +-- Unified Modeling Language
+    |   +-- Vibe Coding
     |
     +-- [ tools ]
     |   |
     |   +-- ABAP Development Tools for Eclipse
+    |   +-- Visual Studio Code
+    |   +-- SAP Business Application Studio
     |   +-- ABAP Test Cockpit
     |   +-- ABAP Unit
     |   +-- abapGit
     |   +-- ABAP Formatter
     |   +-- ABAP Cleaner
+    |   +-- AI coding assistant (e.g. GitHub Copilot or Joule)
     |   +-- SAP GUI
     |   +-- Data Dictionary
     |   +-- Workbench
